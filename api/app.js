@@ -9,7 +9,11 @@ var animals = {
     "bear": "growl",
     "frog": "croak",
     "lion": "roar",
+<<<<<<< HEAD:api/app.js
     "bird": "tweet",
+=======
+    "bird": "tweet"
+>>>>>>> a50342ec1729e5ca9afe5bb41976b14a60576306:app.js
     "cow": "muuuuuu"
 
 }
